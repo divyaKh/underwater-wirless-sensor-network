@@ -1,5 +1,5 @@
 # underwater-wirless-sensor-network
-Master Thesis Project: SENSOR NODE LOCALIZATION AND OPTO-ACOUSTIC COMMUNICATION IN UNDERWATER WIRELESS SENSOR NETWORK
+Master Thesis Project: Sensor Node Localization And Opto-Acoustic Communication In Underwater Wireless Sensor Network
 Submitted: Punjab Engineering College, Chandigarh
 
 Abstract
