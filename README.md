@@ -1,7 +1,7 @@
 # Underwater-Wirless-Sensor-Network
 ## Master Thesis Project: Sensor Node Localization And Opto-Acoustic Communication In Underwater Wireless Sensor Network
 
-### Submitted: Punjab Engineering College, Chandigarh
+### Submitted To: Punjab Engineering College, Chandigarh, India
 
 #### Abstract
 
